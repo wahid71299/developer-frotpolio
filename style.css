@@ -1,0 +1,43 @@
+body {
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.wahid {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.pori {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.pori img {
+    width: 100%;
+}
+
+.linkedin {
+    text-decoration-line: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.top {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
